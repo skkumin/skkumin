@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice)
 
 ### Hi there 👋
-<img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
