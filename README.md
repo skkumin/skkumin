@@ -13,7 +13,6 @@
 **💬 Contact**
 <div style="display: flex; justify-content: center;">
   <div align=center>
-    **💬 Contact**
     <a href="https://www.instagram.com/keveki1/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
