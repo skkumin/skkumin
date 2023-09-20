@@ -1,5 +1,5 @@
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=waving&tect=Welcome to MinGue's Github)
+  ![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 </div>
 
 ### 📚 Technical Skills
