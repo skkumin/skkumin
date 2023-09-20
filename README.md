@@ -6,15 +6,16 @@
   <b>💻 DEV log</b>
 </p>
 
-
 <div align=center>
   <a href="https://velog.io/@skkumin" target="_blank">
     <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
 </div><br>
 
+<p align="center">
+  <b>💬 Contactg</b>
+</p>
 
-**💬 Contact**
 <div style="display: flex; justify-content: center;">
   <div align=center>
     <a href="https://www.instagram.com/keveki1/">
@@ -26,8 +27,9 @@
   </div>
 </div>
 
-
-**📚Tech stack**
+<p align="center">
+  <b>📚Tech stack</b>
+</p>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
