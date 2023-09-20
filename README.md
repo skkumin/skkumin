@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome%20to%20MinGue's%20GitHub!)](https://git.io/typing-svg)
 
-### 💬 Contactg
+### 💬 Contact
 <div style="display: flex; justify-content: center;">
   <div align=left>
     <a href="https://www.instagram.com/keveki1/">
@@ -14,8 +14,8 @@
 </div><br>
 
 ### 💁‍♂️ career
-- Bachelor of System Management Engineering at Sungkyunkwan University<a href="[[https://sme.skku.edu/iesys/index.do](https://sme.skku.edu/iesys/index.do)"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1583670923/noticon/ddtfb0obc3bak9zt2sgk.svg" width="20"></a>
-- 2023 서울대학교 빅데이터 핀테크 전문과 양성과정<a href="[https://sme.skku.edu/iesys/index.do]"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1583670797/noticon/vt7lpzn0dgy6ppbqpa4x.svg" width="20"></a>
+Bachelor of System Management Engineering at Sungkyunkwan University<a href="[[https://sme.skku.edu/iesys/index.do](https://sme.skku.edu/iesys/index.do)"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1583670923/noticon/ddtfb0obc3bak9zt2sgk.svg" width="20"></a>
+2023 서울대학교 빅데이터 핀테크 전문과 양성과정<a href="[https://sme.skku.edu/iesys/index.do]"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1583670797/noticon/vt7lpzn0dgy6ppbqpa4x.svg" width="20"></a>
 
 ### 💻 DEV log
 <div align=left>
