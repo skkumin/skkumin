@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome%to%MinGue's%GitHub!&fontColor=d6ace6&color=timeAuto)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%to%MinGue's%GitHub!&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ### 📚 Technical Skills
 
 <div align=center> 
