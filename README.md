@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome%to%MinGue's%GitHub!&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome%to%MinGue's%GitHub!&fontColor=d6ace6&color=timeAuto)
 
 ### 📚 Technical Skills
 
