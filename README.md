@@ -2,17 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome%20to%20MinGue's%20GitHub!)](https://git.io/typing-svg)
 
 
-<p align="center">
-  <b>💻 DEV log</b>
-</p>
 
-<div align=center>
-  <a href="https://velog.io/@skkumin" target="_blank">
-    <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
-  </a>
-</div><br>
 
-<p align="center">
+<p align=left>
   <b>💬 Contactg</b>
 </p>
 
