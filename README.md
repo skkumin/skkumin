@@ -12,8 +12,12 @@
   <img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=black"> 
   <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <br>
-</div>
 
+### 📬 Contact
+<div align=center>
+  <a href="https://velog.io/@skkumin" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+
+</div>
 
 <!--
 **skkumin/skkumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
