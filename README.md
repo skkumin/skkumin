@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+<div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=waving&tect=Welcome to MinGue's Github)
+</div>
 
 ### 📚 Technical Skills
 
