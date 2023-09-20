@@ -42,6 +42,17 @@ Bachelor of System Management Engineering at Sungkyunkwan University<a href="[[h
   <br>
 </div>
 
+<div align="center">
+<h3>Github Profile</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skkumin&layout=compact)](https://github.com/skkumin/github-readme-stats) 
+  
+![eomgerm's GitHub stats](https://github-readme-stats.vercel.app/api?username=skkumin&show_icons=true&theme=onedark&hide_border=true)
+
+</div>
+
+<div align="center">
+
 
 <!--
 **skkumin/skkumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
