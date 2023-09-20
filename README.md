@@ -32,14 +32,14 @@
 - 2023 서울대학교 빅데이터 핀테크 전문과 양성과정<a href="[https://sme.skku.edu/iesys/index.do]"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1583670797/noticon/vt7lpzn0dgy6ppbqpa4x.svg" width="20"></a>
 
 ### 💻 DEV log
-<div align=center>
+<div align=left>
   <a href="https://velog.io/@skkumin" target="_blank">
     <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
 </div><br>
 
 ### ⚡ My Tech Stacks
-<div align=center> 
+<div align=left> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
