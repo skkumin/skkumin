@@ -3,8 +3,9 @@
 
 
 <p align="center">
-  **💻 DEV log**
+  <b>💻 DEV log</b>
 </p>
+
 
 <div align=center>
   <a href="https://velog.io/@skkumin" target="_blank">
