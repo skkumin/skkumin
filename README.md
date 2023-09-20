@@ -9,7 +9,8 @@
   </a>
 </div><br>
 
-### 💬 Contact
+**💬 Contact**
+<div align=center> 
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/keveki1/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
@@ -19,7 +20,7 @@
     </a>
 </div><br>
 
-### 📚 Technical Skills
+**📚Tech stack**
 
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
