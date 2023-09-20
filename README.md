@@ -27,13 +27,9 @@
   </div>
 </div><br>
 
-### 💁‍♂️ Who am I?
-- Bachelor of System Management Engineering at Sungkyunkwan University<a href="[https://www.khu.ac.kr/](https://sme.skku.edu/iesys/index.do)"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1583670923/noticon/ddtfb0obc3bak9zt2sgk.svg" width="20"></a>
-- Supporter of Queer Community 🏳️‍🌈
-- Pronouce: he/him 👨
-- Love to talking with strangers 💬
-- SUPER FAN OF KPOP 🎶
-
+### 💁‍♂️ career
+- Bachelor of System Management Engineering at Sungkyunkwan University<a href="[[https://sme.skku.edu/iesys/index.do](https://sme.skku.edu/iesys/index.do)"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1583670923/noticon/ddtfb0obc3bak9zt2sgk.svg" width="20"></a>
+- 2023 서울대학교 빅데이터 핀테크 전문과 양성과정<a href="[https://sme.skku.edu/iesys/index.do]"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1583670797/noticon/vt7lpzn0dgy6ppbqpa4x.svg" width="20"></a>
 
 <p align="center">
   <b>📚Tech stack</b>
