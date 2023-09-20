@@ -9,6 +9,7 @@
   </a>
 </div><br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=SurfinData)](https://velog.io/@skkumin)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hellocdpa)](https://velog.io/@hellocdpa)
 
 ### 📚 Technical Skills
 
