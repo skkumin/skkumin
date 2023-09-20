@@ -27,6 +27,14 @@
   </div>
 </div><br>
 
+### 💁‍♂️ Who am I?
+- Bachelor of System Management Engineering at Sungkyunkwan University<a href="[https://www.khu.ac.kr/](https://sme.skku.edu/iesys/index.do)"><img src="[./images/kyunghee.svg](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1583670923/noticon/ddtfb0obc3bak9zt2sgk.svg)" width="20"></a>
+- Supporter of Queer Community 🏳️‍🌈
+- Pronouce: he/him 👨
+- Love to talking with strangers 💬
+- SUPER FAN OF KPOP 🎶
+
+
 <p align="center">
   <b>📚Tech stack</b>
 </p>
