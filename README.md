@@ -9,7 +9,7 @@
   </a>
 </div><br>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hellocdpa)](https://velog.io/@hellocdpa)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=skkumin)](https://velog.io/@skkumin)
 
 ### 📚 Technical Skills
 
