@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
-
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6)
 
 ### 📚 Technical Skills
 
