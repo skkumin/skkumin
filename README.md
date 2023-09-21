@@ -17,7 +17,7 @@
   </div>
 </div><br>
 
-### 📄 career
+### 📄 Bio
 Bachelor of System Management Engineering at Sungkyunkwan University<a href="[[https://sme.skku.edu/iesys/index.do](https://sme.skku.edu/iesys/index.do)"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1583670923/noticon/ddtfb0obc3bak9zt2sgk.svg" width="20"></a><br>
 2023 서울대학교 빅데이터 핀테크 전문과 양성과정<a href="[https://sme.skku.edu/iesys/index.do]"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1583670797/noticon/vt7lpzn0dgy6ppbqpa4x.svg" width="20"></a>
 
