@@ -28,12 +28,8 @@
 
 <div align="center">
 <h3>Github Profile</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skkumin&layout=compact)](https://github.com/skkumin/github-readme-stats) 
   
 ![eomgerm's GitHub stats](https://github-readme-stats.vercel.app/api?username=skkumin&show_icons=true&theme=onedark&hide_border=true)
-
-[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=skkumin)](https://velog.io/@skkumin)
 </div>
 
 <div align="center">
