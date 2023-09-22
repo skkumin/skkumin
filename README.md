@@ -27,7 +27,7 @@ Bachelor of System Management Engineering at Sungkyunkwan University<a href="[[h
     <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
 </div><br>
-[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=skkumin)](https://velog.io/@skkumin)
+
 ### ⚡ My Tech Stacks
 <div align=left> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -49,6 +49,7 @@ Bachelor of System Management Engineering at Sungkyunkwan University<a href="[[h
   
 ![eomgerm's GitHub stats](https://github-readme-stats.vercel.app/api?username=skkumin&show_icons=true&theme=onedark&hide_border=true)
 
+[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=skkumin)](https://velog.io/@skkumin)
 </div>
 
 <div align="center">
