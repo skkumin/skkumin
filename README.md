@@ -7,24 +7,10 @@
 -  currently working on Minds and Company(data science Intern)
 -  I’m currently intersted in LLM(Large Language Model)
 
-### 💬 Contact
-<div style="display: flex; justify-content: center;">
-  <div align=left>
-    <a href="https://www.instagram.com/keveki1/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-    <a href="mailto:mingyujeon697@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-  </div>
-</div><br>
-
 ### 💻 DEV log
-<div align=left>
-  <a href="https://velog.io/@skkumin" target="_blank">
-    <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
-  </a>
-</div><br>
+
+[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=skkumin)](https://velog.io/@skkumin)
+
 
 ### ⚡ My Tech Stacks
 <div align=left> 
