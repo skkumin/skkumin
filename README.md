@@ -9,8 +9,15 @@
 
 ### 💻 DEV log
 
+<p>
+    <code>
+    	<img height="20" 
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" 
+        style="max-width: 100%;">
+     </code>
+  
 [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=skkumin)](https://velog.io/@skkumin)
-
+</p>
 
 ### ⚡ My Tech Stacks
 <div align=left> 
