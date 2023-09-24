@@ -9,14 +9,6 @@
 
 ### 💻 DEV log
 
-<p>
-    <code>
-    	<img height="20" 
-        src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581345292/noticon/hbwtrewlv2xxxyqe3qpm.png
-        style="max-width: 100%;">
-     </code>
-</p>
-
 [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=skkumin)](https://velog.io/@skkumin)
 
 ### ⚡ My Tech Stacks
