@@ -12,7 +12,7 @@
 <p>
     <code>
     	<img height="20" 
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" 
+        src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581345292/noticon/hbwtrewlv2xxxyqe3qpm.png
         style="max-width: 100%;">
      </code>
 </p>
