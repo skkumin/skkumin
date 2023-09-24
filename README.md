@@ -7,6 +7,10 @@
 -  currently working on Minds and Company(data science Intern)
 -  I’m currently intersted in LLM(Large Language Model)
 
+<p>
+  <a href="https://blog.cowkite.com/" target="_blank"><img src="https://www.datascienceportfol.io/MinGue"/></a>
+</p>
+
 ### 💻 DEV log
 
 [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=skkumin)](https://velog.io/@skkumin)
