@@ -26,14 +26,6 @@
   <br>
 </div>
 
-<div align="center">
-<h3>Github Profile</h3>
-  
-![eomgerm's GitHub stats](https://github-readme-stats.vercel.app/api?username=skkumin&show_icons=true&theme=onedark&hide_border=true)
-</div>
-
-<div align="center">
-
 
 <!--
 **skkumin/skkumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,5 +41,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 <!-- [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlgh1254)](https://solved.ac/dlwlgh1254) -->
