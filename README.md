@@ -6,7 +6,7 @@
 - 2023 서울대학교 빅데이터 핀테크 전문가 양성과정<a href="[https://sme.skku.edu/iesys/index.do]"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1583670797/noticon/vt7lpzn0dgy6ppbqpa4x.svg" width="20"></a>
 - currently working on Minds and Company(data science Intern)
 - I’m currently intersted in LLM(Large Language Model)
-- My DataScience portfolio<a href="[https://www.datascienceportfol.io/MinGue]"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577544307/noticon/a7cmr2ibsfyuwcydpvny.png" width="20"></a>
+
 
 ### 💻 DEV log
 
