@@ -9,7 +9,6 @@
 
 
 ### 💻 DEV log
-[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=skkumin)](https://velog.io/@skkumin)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=skkumin)](https://velog.io/@skkumin) 
 ### ⚡ My Tech Stacks
 <div align=left> 
